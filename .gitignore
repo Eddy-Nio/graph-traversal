@@ -12,7 +12,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -73,6 +74,10 @@ pip-selfcheck.json
 # Ignore all local history of files
 .history
 .ionide
+
+#Documentos
+*./Documento/
+*.pdf
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,macos,dotenv,venv,virtualenv
 
