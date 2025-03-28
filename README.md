@@ -103,7 +103,7 @@ print(g.visualize_graph())
 5. Open Pull Request
 
 ## 📝 License
-Distributed under the MIT License. See [LICENSE](LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 
 Crafted with clarity and efficiency for educational and practical use. 🧠🔍
 
